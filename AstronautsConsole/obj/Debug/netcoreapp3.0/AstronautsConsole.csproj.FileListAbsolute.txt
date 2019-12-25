@@ -1,0 +1,13 @@
+/Users/shahinfarzane/Projects/AstronautsConsole/AstronautsConsole/obj/Debug/netcoreapp3.0/AstronautsConsole.csprojAssemblyReference.cache
+/Users/shahinfarzane/Projects/AstronautsConsole/AstronautsConsole/obj/Debug/netcoreapp3.0/AstronautsConsole.AssemblyInfoInputs.cache
+/Users/shahinfarzane/Projects/AstronautsConsole/AstronautsConsole/obj/Debug/netcoreapp3.0/AstronautsConsole.AssemblyInfo.cs
+/Users/shahinfarzane/Projects/AstronautsConsole/AstronautsConsole/bin/Debug/netcoreapp3.0/AstronautsConsole
+/Users/shahinfarzane/Projects/AstronautsConsole/AstronautsConsole/bin/Debug/netcoreapp3.0/AstronautsConsole.deps.json
+/Users/shahinfarzane/Projects/AstronautsConsole/AstronautsConsole/bin/Debug/netcoreapp3.0/AstronautsConsole.runtimeconfig.json
+/Users/shahinfarzane/Projects/AstronautsConsole/AstronautsConsole/bin/Debug/netcoreapp3.0/AstronautsConsole.runtimeconfig.dev.json
+/Users/shahinfarzane/Projects/AstronautsConsole/AstronautsConsole/bin/Debug/netcoreapp3.0/AstronautsConsole.dll
+/Users/shahinfarzane/Projects/AstronautsConsole/AstronautsConsole/bin/Debug/netcoreapp3.0/AstronautsConsole.pdb
+/Users/shahinfarzane/Projects/AstronautsConsole/AstronautsConsole/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll
+/Users/shahinfarzane/Projects/AstronautsConsole/AstronautsConsole/obj/Debug/netcoreapp3.0/AstronautsConsole.csproj.CopyComplete
+/Users/shahinfarzane/Projects/AstronautsConsole/AstronautsConsole/obj/Debug/netcoreapp3.0/AstronautsConsole.dll
+/Users/shahinfarzane/Projects/AstronautsConsole/AstronautsConsole/obj/Debug/netcoreapp3.0/AstronautsConsole.pdb
